@@ -3,3 +3,6 @@
  
 # PortfolioProject-Eccommerce-Dashboard-
 ![image](https://github.com/DanKhld/PortfolioProject-PowerBi_Only-/assets/90670465/60f3e940-1ee7-4326-b3fc-133e98d9bae4)
+
+# PortfolioProject-Attendance-Insight-
+![image](https://github.com/DanKhld/PortfolioProject-PowerBi_Only-/assets/90670465/16be832f-4924-4797-aca6-b555c8bc525b)
