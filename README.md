@@ -6,3 +6,6 @@
 
 # PortfolioProject-Attendance-Insight-
 ![image](https://github.com/DanKhld/PortfolioProject-PowerBi_Only-/assets/90670465/16be832f-4924-4797-aca6-b555c8bc525b)
+
+# PortfolioProject-HR-Dashboard-
+![image](https://github.com/DanKhld/PortfolioProject-PowerBi_Only-/assets/90670465/8e3d96cf-5680-43c0-9fe5-116c6cb52165)
